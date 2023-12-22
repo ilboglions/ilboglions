@@ -1,6 +1,6 @@
 ### Hi Everyone!
-My name's Matteo and you just landed on my GitHub profile!
-I'm a Computer Science Student at ETH Zürich 🇨🇭 from Italy 🇮🇹
+My name's Matteo and you just landed on my GitHub profile! <br />
+I'm a Computer Science Student at ETH Zürich 🇨🇭 from Italy 🇮🇹 <br />
 Some basic info about me:
 - I'm taking a Master's Degree in Machine Intelligence 🧑🏻‍🎓
 - I love travelling 🛫
