@@ -10,5 +10,4 @@ Hope you can find what you need in my repositories! For any further information 
 
 ![](https://komarev.com/ghpvc/?username=ilboglions&color=orange)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ilboglions&show_icons=true&theme=transparent)
 
