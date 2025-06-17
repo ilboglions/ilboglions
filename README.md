@@ -6,7 +6,8 @@ Some basic info about me:
 - I love travelling 🛫
 - I'm a Scout ⚜️
 
-Hope you can find what you need in my repositories! For any further information feel free to reach me on [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matteoboglioni/)
+You can take a look at some of my works on my personal [webpage](https://ilboglions.github.io/)!
+For any further information feel free to reach me on [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matteoboglioni/)
 
 ![](https://komarev.com/ghpvc/?username=ilboglions&color=orange)
 
